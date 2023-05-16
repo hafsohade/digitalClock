@@ -1,0 +1,13 @@
+.container{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    color: aqua;
+    font-size: 100px;
+    font-weight: 100;
+    font-family: sans-serif;
+}
